@@ -3,7 +3,9 @@
 >原插件好长时间不在更新维护，自己fork了份并修复了一些问题
 
 ##
-![bottomtabbar](/screenshot.png){width="400px"}
+<div align="center">
+    <img src="/screenshot.png" width="400px" />
+</div>
 
 # BottomTabBar
     和官方BottomNavigationBar类似，只是加入了一些小特性，特别是角标
