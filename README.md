@@ -2,6 +2,9 @@
 
 >原插件好长时间不在更新维护，自己fork了份并修复了一些问题
 
+##
+![bottomtabbar](/screenshot.png =400)
+
 # BottomTabBar
     和官方BottomNavigationBar类似，只是加入了一些小特性，特别是角标
 
@@ -131,5 +134,3 @@ class HomeState extends State<Home> with SingleTickerProviderStateMixin {
 
 ```
 
-##
-![bottomtabbar](/screenshot.png)
